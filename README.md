@@ -11,7 +11,7 @@ O CodeQuiz é uma aplicação web que permite aos usuários testarem seus conhec
 Este projeto foi realizado como parte de uma extensão curricular oferecida pelo [insira o nome da instituição aqui]. A extensão curricular é uma atividade extracurricular opcional que permite aos alunos aprimorarem seus conhecimentos e habilidades além do currículo regular do curso.
 
 ## Protótipo
-
+<img alt="CodeQuiz" src=".github/Captura de tela 2024-03-25 102708.png" width="100%">
 [Protótipo](https://www.canva.com/design/DAGAM_sczr4/0qFnAFmlFYYle296BsySmg/edit?utm_content=DAGAM_sczr4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Licença
