@@ -12,7 +12,7 @@ Este projeto foi realizado como parte de uma extensão curricular oferecida pelo
 
 ## Protótipo
 
-![Protótipo](https://www.canva.com/design/DAGAM_sczr4/0qFnAFmlFYYle296BsySmg/edit?utm_content=DAGAM_sczr4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Protótipo](https://www.canva.com/design/DAGAM_sczr4/0qFnAFmlFYYle296BsySmg/edit?utm_content=DAGAM_sczr4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Licença
 
